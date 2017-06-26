@@ -1,0 +1,50 @@
+{
+  "name": "weixin-pay-ddr",
+  "version": "2.0",
+  "description": "weixin payment for ddr app",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "request": "^2.54.0",
+    "MD5": "^1.2.1",
+    "xml2js": "^0.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvrcgo/weixin-pay.git"
+  },
+  "keywords": [
+    "weixin",
+    "wechat",
+    "payment"
+  ],
+  "author": {
+    "name": "zb"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhbo/wxpay.git"
+  },
+  "homepage": "https://github.com/zhbo/wxpay.git",
+  "gitHead": "134277b6ef17d70141e5e15f87cf9cb5c04214dd",
+  "_id": "weixin-pay@2.0",
+  "_from": "weixin-pay@2.0",
+  "_npmVersion": "2.14.4",
+  "_nodeVersion": "4.1.1",
+  "_npmUser": {
+    "name": "zb",
+    "email": "zhangbowork@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "zb",
+      "email": "zhangbowork@gmail.com"
+    }
+  ]
+}
